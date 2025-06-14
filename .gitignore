@@ -1,0 +1,6 @@
+# Ignore XAMPP logs and temporary files
+*.log
+tmp/
+uploads/
+.vscode/
+.env
